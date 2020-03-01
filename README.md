@@ -1,7 +1,10 @@
-# -KRLS_120WLED_Customer
-Customer deliverables for KR Lighting System
+# KRLS_120WLED_Customer
 
-V1.0.0 Release:
+[![N|Solid](http://qpowersys.com/Images/qps_final-01.png)](https://nodesource.com/products/nsolid)
+
+[![N|Solid](http://www.krlightingsystems.com/images/logo.png)](https://nodesource.com/products/nsolid)
+
+# V1.0.0 Release:New Features!
 
 --> Added logic : To set intensity & cct to 0 & 5800 respectively if eeprom erased after flash program.
 --> Changed logic : Unit after power on jumps to normal mode instead of standby every time.
